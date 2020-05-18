@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589806068 source:c:\users\admin\desktop\proyectos\funcion contarcaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
